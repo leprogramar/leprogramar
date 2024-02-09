@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center" >I'm Bioinformatic!</h2>
+<h2 align="center" >Estou aprendendo a programar!</h2>
 <br>
 <div align="center" >
   
