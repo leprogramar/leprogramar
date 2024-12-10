@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center" >Estou aprendendo a programar!</h2>
+<h2 align="center" >I'm a sports scientist who loves data!</h2>
 <br>
 <div align="center" >
   
